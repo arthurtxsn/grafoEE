@@ -44,7 +44,15 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 🌎 Demo
 
 Inclua um link ou GIF que demonstre o funcionamento do projeto:
-![image](https://github.com/user-attachments/assets/6da7a58b-9348-4171-9bad-84c1c25036b1)
+![image](https://github.com/user-attachments/assets/a5277388-911d-4a20-b720-1d48050193ad)
+
+![image](https://github.com/user-attachments/assets/8c0197af-cda4-427b-9e3f-28e523f559bd)
+![image](https://github.com/user-attachments/assets/17702a9e-1e5d-44eb-8a02-7419e78282a9)
+![image](https://github.com/user-attachments/assets/2e2e5439-d422-4f0f-aba2-95d69ac1e851)
+
+
+
+
 
 
 ## 📁 Estrutura do Projeto
